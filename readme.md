@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Franklin Gabriel Alvarez Rosas
+- **Carrera**: Ingenieria en informatica
+- **Fecha de entrega**: 15/04/2026
 
 ---
 
